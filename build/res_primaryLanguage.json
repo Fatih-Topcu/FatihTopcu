@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "I'm Fatih Topçu. Computer Engineer who is looking for new opportunities to expand his knowledge. I am currently working as a Frontend Developer at Tapu.com and have worked mostly as frontend developer since my first internship. I also have basic knowledge about backend and game development.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Avon Innovation Portal",
+      "startDate": "2021",
+      "description": "Website made for the use of Avon employees. Website has two sections: Projects and Suggestions. Project part works like Kickstarter, each employee has virtual fund that can be used on other user created projects. Suggestion is just a portal where employees can make suggestion for any topic. There are two different roles in website: Users and Admins. Admins can change the status of suggestions (accepted, rejected etc.) and can download all suggestions to their device in XLSX format. Some operations trigger an automated e-mail system for corresponding users and admins.",
+      "images": [
+        "images/portfolio/AIP/AIP-1.png",
+        "images/portfolio/AIP/AIP-2.png",
+        "images/portfolio/AIP/AIP-3.png",
+        "images/portfolio/AIP/AIP-4.png",
+        "images/portfolio/AIP/AIP-5.png",
+        "images/portfolio/AIP/AIP-6.png"
+      ],
+      "url": "https://portal.avon.com.tr/proje/aip/#/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-sass-original colored",
+          "name": "SASS/SCSS"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "express.js"
+        },
+        {
+          "class": "devicon-bootstrap-plain colored",
+          "name": "Bootstrap for React"
+        },
+        {
+          "class": "devicon-mysql-plain-wordmark",
+          "name": "mysql"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "node.js"
+        },
+        {
+          "class": "devicon-npm-original-wordmark colored",
+          "name": "npm"
+        }
+      ]
+    },
+    {
+      "title": "Avon Field Management Portal",
+      "startDate": "2021",
+      "description": "Website made for the use of Avon field employees. It helps their reporting by making it easier and it makes their reports reachable by their managers in website.",
+      "images": [
+        "images/portfolio/FMP/FMP-1.png",
+        "images/portfolio/FMP/FMP-2.png",
+        "images/portfolio/FMP/FMP-3.png",
+        "images/portfolio/FMP/FMP-4.png",
+        "images/portfolio/FMP/FMP-5.png",
+        "images/portfolio/FMP/FMP-6.png",
+        "images/portfolio/FMP/FMP-7.png",
+        "images/portfolio/FMP/FMP-8.png",
+        "images/portfolio/FMP/FMP-9.png",
+        "images/portfolio/FMP/FMP-10.png",
+        "images/portfolio/FMP/FMP-11.png",
+        "images/portfolio/FMP/FMP-12.png"
+      ],
+      "url": "https://portal.avon.com.tr/proje/fmp/#/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-sass-original colored",
+          "name": "SASS/SCSS"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "express.js"
+        },
+        {
+          "class": "devicon-mysql-plain-wordmark",
+          "name": "mysql"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "node.js"
+        },
+        {
+          "class": "devicon-npm-original-wordmark colored",
+          "name": "npm"
+        }
+      ]
+    },
+    {
+      "title": "TaskManager",
+      "startDate": "2020",
+      "description": "Basic task management application developed while doing internship at KoçSistem.",
+      "images": [
+        "images/portfolio/TaskManager/TaskManager-1.png",
+        "images/portfolio/TaskManager/TaskManager-2.png",
+        "images/portfolio/TaskManager/TaskManager-3.png",
+        "images/portfolio/TaskManager/TaskManager-4.png"
+      ],
+      "url": "https://fatih-topcu.github.io/TaskManager-React/",
+      "technologies": [
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-sass-original colored",
+          "name": "SASS/SCSS"
+        },
+        {
+          "class": "devicon-firebase-plain colored",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-nodejs-plain colored",
+          "name": "node.js"
+        },
+        {
+          "class": "devicon-npm-original-wordmark colored",
+          "name": "npm"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tapu.com",
+      "title": "Frontend/Mobile Developer",
+      "years": "01.2022 - present",
+      "mainTech": ["React.js", "React Native", "Javascript"],
+      "technologies": [
+        "SASS/SCSS",
+        "Material UI",
+        "Angular 1",
+        "Pebble.js"
+      ]
+    },
+    {
+      "company": "Avon Turkey",
+      "title": "IT Intern",
+      "years": "12.2020 - 05.2021",
+      "mainTech": ["React.js", "Javascript", "SASS/SCSS"],
+      "technologies": [
+        "Express.js",
+        "MySql",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+        "Bootstrap for React"
+      ]
+    },
+    {
+      "company": "KoçSistem",
+      "title": "Frontend Development Intern",
+      "years": "08.2020 - 09.2020",
+      "mainTech": ["React.js", "Javascript", "SASS/SCSS"],
+      "technologies": ["React Native", "HTML", "CSS", "Firebase"]
+    }
+  ]
+}
