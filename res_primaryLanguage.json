@@ -152,12 +152,13 @@
       "company": "Tapu.com",
       "title": "Frontend/Mobile Developer",
       "years": "01.2022 - present",
-      "mainTech": ["React.js", "React Native", "Javascript"],
+      "mainTech": ["React.js", "React Native", "Javascript", "Typescript"],
       "technologies": [
         "SASS/SCSS",
         "Material UI",
         "Angular 1",
-        "Pebble.js"
+        "Pebble.js",
+        "Figma"
       ]
     },
     {
