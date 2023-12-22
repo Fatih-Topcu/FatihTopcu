@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "I'm Fatih Topçu. Computer Engineer who is looking for new opportunities to expand his knowledge. I am currently working as a Frontend Developer at Tapu.com and have worked mostly as frontend developer since my first internship. I also have basic knowledge about backend and game development.",
+    "description": "I'm Fatih Topçu. I am currently working as a Javascript Developer at Emplifi.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -149,9 +149,19 @@
   ],
   "experience": [
     {
+      "company": "Emplifi",
+      "title": "Javascript Developer",
+      "years": "02.2023 - present",
+      "mainTech": ["React.js", "Node.js", "Javascript", "Typescript"],
+      "technologies": [
+        "SASS/SCSS - LESS",
+        "Figma"
+      ]
+    },
+    {
       "company": "Tapu.com",
       "title": "Frontend/Mobile Developer",
-      "years": "01.2022 - present",
+      "years": "01.2022 - 12.2022",
       "mainTech": ["React.js", "React Native", "Javascript", "Typescript"],
       "technologies": [
         "SASS/SCSS",
